@@ -1,0 +1,4 @@
+[build]
+publish = "code"
+[build.environment]
+NODE_VERSION = "22"
